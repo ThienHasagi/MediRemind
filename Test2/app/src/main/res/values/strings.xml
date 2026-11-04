@@ -1,0 +1,26 @@
+<resources>
+    <string name="tab_employees">Quản lý Nhân viên</string>
+    <string name="tab_admin_salary">Quản lý Bảng lương</string>
+    <string name="tab_attendance">Chấm công &amp; Lịch sử</string>
+    <string name="tab_employee_salary">Bảng lương cá nhân</string>
+    <string name="app_name">Quản lý giờ làm và tiền lương</string>
+    <string name="login_title">Đăng nhập</string>
+    <string name="login_subtitle">Quản lý giờ làm và tiền lương của bạn</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="show_password">Hiện</string>
+    <string name="hide_password">Ẩn</string>
+    <string name="login_action">Đăng nhập</string>
+    <string name="error_empty_fields">Vui lòng nhập tên đăng nhập và mật khẩu.</string>
+    <string name="error_invalid_credentials">Sai tài khoản hoặc mật khẩu.</string>
+    <string name="error_employee_not_found">Tài khoản chưa có hồ sơ nhân viên. Vui lòng liên hệ quản trị viên.</string>
+    <string name="error_unsupported_role">Vai trò tài khoản không được hỗ trợ.</string>
+    <string name="error_database">Không thể đăng nhập lúc này. Vui lòng thử lại.</string>
+    <string name="admin_dashboard">Trang quản trị</string>
+    <string name="employee_dashboard">Trang nhân viên</string>
+    <string name="welcome_user">Xin chào, %1$s</string>
+    <string name="account_id">ID tài khoản: %1$d</string>
+    <string name="employee_id">ID nhân viên: %1$d</string>
+    <string name="account_role">Vai trò: %1$s</string>
+    <string name="logout">Đăng xuất</string>
+</resources>

@@ -1,0 +1,9 @@
+.gradle/
+.gradle-native/
+.gradle-wrapper-bootstrap/
+.kotlin/
+**/build/
+local.properties
+submission/
+.idea/
+*.iml
